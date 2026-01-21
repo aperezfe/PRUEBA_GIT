@@ -3,7 +3,7 @@ package com.ejemplo.calculadora;
 import java.util.Scanner;
 
 public class Main {
-
+    System.out.println("Resultado: ");
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
         Scanner sc = new Scanner(System.in);
